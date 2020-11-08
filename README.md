@@ -1,0 +1,1 @@
+based on "deep learning and the game of go" by pumperla & ferguson
